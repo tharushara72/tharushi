@@ -1,0 +1,134 @@
+.logo{
+    background-color: darkslateblue;
+    margin-bottom: -22px;
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 18px;
+}
+.container{
+    margin-top: -5px;
+    
+    background-color: dimgrey;
+    padding: 40px;
+    
+}
+.box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap:15px;
+}
+.box {
+    background-color:white;
+    text-align: center;
+    padding: 30px 20px;
+}
+.box img {
+    height:200px;
+}
+.box .btn{
+    
+    
+    display: inline-block;
+    background-color:darkslateblue;
+    color: aliceblue;
+    padding: 8px 25px;
+    
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.girl{
+    background-color:goldenrod;
+    padding: 60px 150px;
+
+
+}
+.girl h1{
+    text-align: center;
+    margin-top: -18px;
+    color: aliceblue;
+}
+ 
+
+
+
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
